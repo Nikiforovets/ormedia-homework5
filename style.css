@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#timeField{  
+    font-size: 108px;
+    color: rgb(31, 161, 161);
+}
+
+.timer{
+    margin-top: 30px;
+}
+
+.buttonsContainer button{
+    padding: auto;
+    border: none;
+    color: white;
+    width: 70px;
+    height: 40px;
+    font-size: 16px;
+}
+
+.start{
+    background-color: rgb(19, 173, 19);
+}
+
+.stop{
+    background-color: rgb(204, 26, 26);
+}
+
+.reset{
+    background-color: rgb(153, 69, 233);
+}
+
+.split{
+    background-color: skyblue;
+}
+
+#intervals{
+    margin: 30px;
+    font-size: 36px;
+    color: grey;
+}
+.interv{
+    margin-top: 5px;
+}
